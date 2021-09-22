@@ -17,14 +17,9 @@ My work aims to bridge the gap between “systems” and “user-centred” Info
 ## Contact details
 
 Information School
-
 Regent Court (IS)
-
 211 Portobello
-
 Sheffield
-
 S1 4DP
-
 
 email: m.harvey\[at\]sheffield.ac.uk
