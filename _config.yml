@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Morgan Harvey"
-  avatar           : "profile.png"
-  bio              : "Lecturer in Data Science at the Information School at the University of Sheffield"
-  location         : "Location"
+  avatar           : "MorganHarvey.jpeg"
+  bio              : "Lecturer in Data Science at the University of Sheffield Information School"
+  location         : "Sheffield, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=9KtlRP8AAAAJ&hl=en"
   email            :
