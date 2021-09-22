@@ -15,9 +15,16 @@ I hold a PhD in Information Science from the University of Strathclyde, which I 
 My work aims to bridge the gap between “systems” and “user-centred” Information Retrieval and Recommender Systems. I conduct research in the fields of information retrieval, information behaviour, recommender systems and in the wider area of information and data science and have published more than 60 peer-reviewed conference papers and journal articles.
 
 ## Contact details
+
 Information School
+
 Regent Court (IS)
+
 211 Portobello
+
 Sheffield
+
 S1 4DP
+
+
 email: m.harvey\[at\]sheffield.ac.uk
