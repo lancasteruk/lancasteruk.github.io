@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer (assistant professor) at the [Information School](http://sheffield.ac.uk/is/) of [The University of Sheffield](http://sheffield.ac.uk/).
+I am a lecturer (assistant professor) at the [Information School](http://sheffield.ac.uk/is/) of [The University of Sheffield](http://sheffield.ac.uk/) (TUoS).
 
 I hold a PhD in Information Science from the University of Strathclyde, which I completed in 2011, and since then have worked in academic roles in the UK, Germany and Switzerland. Before coming to Sheffield, I was a senior lecturer at Northumbria University in Newcastle and a research associate at the University of Lugano in Switzerland and the University of Erlangen-Nuremberg in Germany. 
 
